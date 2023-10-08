@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'MARION & The essentials';
+    src: url('MARIONTheessentials.eot');
+    src: url('MARIONTheessentials.eot?#iefix') format('embedded-opentype'),
+        url('MARIONTheessentials.woff2') format('woff2'),
+        url('MARIONTheessentials.woff') format('woff'),
+        url('MARIONTheessentials.ttf') format('truetype'),
+        url('MARIONTheessentials.svg#MARION&Theessentials') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MARION & The essentials';
+    src: url('MARIONTheessentials_1.eot');
+    src: url('MARIONTheessentials_1.eot?#iefix') format('embedded-opentype'),
+        url('MARIONTheessentials_1.woff2') format('woff2'),
+        url('MARIONTheessentials_1.woff') format('woff'),
+        url('MARIONTheessentials_1.ttf') format('truetype'),
+        url('MARIONTheessentials_1.svg#MARION&Theessentials') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
