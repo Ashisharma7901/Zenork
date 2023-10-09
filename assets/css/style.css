@@ -1381,6 +1381,10 @@ footer::before{
 .hexpert-main{
     margin-top: 60px;
 }
+body{
+	width: 100%;
+	overflow: hidden;
+}
 /* Responsive */
 
 @media screen and (max-width: 1399px) {
