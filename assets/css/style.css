@@ -540,6 +540,8 @@ header .menu-item:last-child a::before{
 .view-btn svg{
     max-width: 15px;
     margin-left: 10px;
+    transform: rotate(0);
+    transition: all 0.5s;
 }
 .view-btn svg path{
     stroke: #fff;
@@ -549,10 +551,9 @@ header .menu-item:last-child a::before{
 }
 .view-btn:hover{
     background: linear-gradient(-98deg, #3F53D9 -13.64%, #9192F0 135.83%); 
-    color: #252424;
 }
-.view-btn:hover svg path{
-    stroke: #252424;
+.view-btn:hover svg {
+     transform: rotate(45deg);
 }
 .bootom-btn{
     margin-top: 100px;
