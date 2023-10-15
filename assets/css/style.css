@@ -1872,21 +1872,21 @@ body{
         margin-top: 80px;
     }
     header .menu-item {
-        font-size: 40px;
-        line-height: 50px;
+        font-size: 35px;
+        line-height: 45px;
     }
     header .menu-item + .menu-item {
         margin-left: 0;
-        margin-top: 14px;
+        margin-top: 15px;
     }
     header .menu-item:first-child {
         margin-left: 0;
-	    font-size: 30px;
-	    line-height: 40px;
     }
     header .menu-item:last-child {
         margin-left: 0;
         margin-top: 60px;
+	    font-size: 30px;
+	    line-height: 40px;
     }
     .offcanvas.offcanvas-start {
         width: 40%;
