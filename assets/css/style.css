@@ -733,6 +733,9 @@ footer::before{
     color: #3D3A3A;
     margin-bottom: 12px;
 }
+.social ul li:last-child svg {
+	margin-top: -5px;
+}
 .f-links ul li{
     font-size: 20px;
     line-height: 30px;
