@@ -2107,7 +2107,10 @@ body{
         line-height: 120px;
     }
     .home-banner {
-        padding: 160px 0px 60px;
+        padding: 150px 0px 60px;
+    }
+    .hb-main{
+	margin-top: 20px;
     }
     .hb-main h2, .hb-main h2 {
         font-size: 50px;
