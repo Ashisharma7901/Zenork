@@ -711,8 +711,10 @@ footer::before{
     max-width: fit-content;
     margin: auto;
 }
-.social ul li svg{
-    max-width: 28px;
+.social ul li svg {
+	max-width: 28px;
+	width: 28px;
+	height: 28px;
 }
 .social ul li + li{
     margin-left: 24px;
