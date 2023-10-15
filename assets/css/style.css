@@ -269,9 +269,10 @@ header{
     transition: .5s all ease;
 }
 header.sticky {
-	background: #fff;
+	background: rgba(255,255,255,0.9);
 	padding: 25px 0;
 	box-shadow: 0px 5px 20px rgb(0 0 0 / 20%);
+	backdrop-filter: blur(8px);
 }
 header .navbar {
 	padding: 0;
