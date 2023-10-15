@@ -296,7 +296,7 @@ header .menu-item a{
 }
 header .menu-item a:hover, header .menu-item.current-menu-item a{
     color: #000;
-	font-weight: 500;
+	font-weight: 400;
 }
 header .menu-item + .menu-item{
     margin-left: 60px;
@@ -322,6 +322,7 @@ header .menu-item:last-child a{
 header .menu-item:last-child a:hover, header .current-menu-item.menu-item:last-child a{
     background: #4357E9;
     color: #fff;
+	font-weight: 500;
 }
 header .menu-item:last-child a::before{
     display: none;
