@@ -726,6 +726,9 @@ footer::before{
 .social li a:hover svg path{
     fill: rgba(67, 73, 228, 1);
 }
+.f-links ul li a.current-menu-item{
+	color: #000;
+}
 .f-right h3{
     font-size: 20px;
     line-height: 30px;
