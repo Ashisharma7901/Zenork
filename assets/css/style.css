@@ -1877,7 +1877,7 @@ body{
     }
     header .menu-item + .menu-item {
         margin-left: 0;
-        margin-top: 15px;
+        margin-top: 20px;
     }
     header .menu-item:first-child {
         margin-left: 0;
@@ -2107,7 +2107,7 @@ body{
         line-height: 120px;
     }
     .home-banner {
-        padding: 125px 0px 60px;
+        padding: 160px 0px 60px;
     }
     .hb-main h2, .hb-main h2 {
         font-size: 50px;
@@ -2409,8 +2409,11 @@ body{
         height: 210px;
     }
     .home-banner {
-        padding: 120px 0px 50px;
+        padding: 150px 0px 50px;
     }
+	.hbarte-main {
+	margin-top: 30px;
+	}	
     .title h2 {
         font-size: 42px;
         margin-bottom: 25px;
@@ -2560,4 +2563,10 @@ body{
     .homw-work .row + .row {
         row-gap: 30px;
     }
+	.hb-main p svg {
+	display: none;
+	}
+	.hbm-desc {
+	margin-bottom: 35px;
+	}
 }
