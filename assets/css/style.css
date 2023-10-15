@@ -1151,6 +1151,8 @@ footer::before{
 }
 .abagenb-social ul li svg{
     max-width: 30px;
+	width: 30px;
+	height: 30px;
 }
 .abagenb-social ul li + li{
     margin-left: 20px;
