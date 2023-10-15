@@ -1839,27 +1839,29 @@ body{
         width: 15px;
     }
     button.close-btn {
-        width: 100%;
-        height: 40px;
-        background: #1a1a1a;
-        border: 0;
-        right: 0;
-        position: absolute;
-        font-size: 18px;
-        color: #fff;
-        padding: 0 15px;
-        z-index: 2;
-        text-align: left;
-        top: 0;
-        cursor: pointer;
-        text-transform: capitalize;
-        left: 0;
-        display: block;
-        line-height: 40px;
-        text-align: right;
-    }
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	border: 0;
+	right: 0;
+	position: absolute;
+	font-size: 18px;
+	color: #fff;
+	padding: 0 15px;
+	z-index: 2;
+	text-align: left;
+	top: 0;
+	cursor: pointer;
+	text-transform: capitalize;
+	left: 0;
+	display: block;
+	line-height: 40px;
+	text-align: right;
+	margin-left: auto;
+	margin-right: 6px;
+	}
     button.close-btn svg {
-        fill: #fff;
+        fill: #000;
         width: 18px;
         padding-top: 12px;
         vertical-align: unset;
@@ -1870,8 +1872,8 @@ body{
         margin-top: 80px;
     }
     header .menu-item {
-        font-size: 20px;
-        line-height: 30px;
+        font-size: 40px;
+        line-height: 50px;
     }
     header .menu-item + .menu-item {
         margin-left: 0;
@@ -1879,6 +1881,8 @@ body{
     }
     header .menu-item:first-child {
         margin-left: 0;
+	    font-size: 30px;
+	    line-height: 40px;
     }
     header .menu-item:last-child {
         margin-left: 0;
