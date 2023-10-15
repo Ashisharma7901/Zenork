@@ -1780,7 +1780,10 @@ body{
         row-gap: 30px;
     }
     .fli-btn {
-        margin: 0px auto 14px;
+        margin: 0px 0 14px;
+    }
+     .social ul {
+	margin-left: 0;
     }
     .cta {
         padding-bottom: 40px;
