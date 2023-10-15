@@ -1960,7 +1960,7 @@ body{
         margin-bottom: 10px;
     }
     .contact-banner {
-        margin-top: 130px;
+        margin-top: 150px;
     }
     .conba-right {
         margin-top: 30px;
@@ -2254,6 +2254,9 @@ body{
         font-size: 40px;
         line-height: 52px;
     }
+	.conba-right {
+	margin-top: 50px;
+	}
     .conbari-top a {
         font-size: 42px;
         line-height: 60px;
@@ -2486,10 +2489,10 @@ body{
         margin-bottom: 29px;
     }
     .contact-banner {
-        margin-top: 120px;
+        margin-top: 138px;
     }
     .conba-right {
-        margin-top: 20px;
+        margin-top: 40px;
     }
     .conbari-top a {
         font-size: 35px;
