@@ -319,7 +319,7 @@ header .menu-item:last-child a{
     border: 1px solid #4357E9; 
     transition: all 0.5s;
 }
-header .menu-item:last-child a:hover, header .menu-item:last-child.current-menu-item a{
+header .menu-item:last-child a:hover, header .current-menu-item.menu-item:last-child a{
     background: #4357E9;
     color: #fff;
 }
