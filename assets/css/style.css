@@ -257,7 +257,7 @@ h2{
     margin: 200px 0px;
 }
 header{
-    padding: 50px 0;
+    padding: 40px 0;
     position: fixed;
     top: 0;
     left: 0;
@@ -270,7 +270,7 @@ header{
 }
 header.sticky {
 	background: rgba(255,255,255,0.8);
-	padding: 25px 0;
+	padding: 20px 0;
 	box-shadow: 0px 5px 20px rgb(0 0 0 / 20%);
 	backdrop-filter: blur(8px);
 }
@@ -1399,7 +1399,10 @@ footer::before{
     margin-bottom: 0px;
 }
 .hexpert-main{
-    margin-top: 60px;
+    margin-top: 77px;
+}
+.hexpert-desc p {
+	max-width: 87%;
 }
 body{
 	width: 100%;
