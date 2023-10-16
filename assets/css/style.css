@@ -411,9 +411,9 @@ header .menu-item:last-child a::before{
     background: rgba(67, 87, 233, 1);
     border-radius: 50%;
     opacity: 0;
-    -webkit-transition: .5s all ease;
-    -ms-transition: .5s all ease;
-    transition: .5s all ease;
+    -webkit-transition: .8s all ease;
+    -ms-transition: .8s all ease;
+    transition: .8s all ease;
 }
 .arrow-btn:hover{
     background: rgba(67, 87, 233, 1);
@@ -424,9 +424,9 @@ header .menu-item:last-child a::before{
     top: 50%;
     left: 30%;
     transform: translate(-50%, -50%);
-    -webkit-transition: .5s all ease;
-    -ms-transition: .5s all ease;
-    transition: .5s all ease;
+    -webkit-transition: .8s all ease;
+    -ms-transition: .8s all ease;
+    transition: .8s all ease;
 }
 .hworkb-top ul{
     display: flex;
