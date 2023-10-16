@@ -1461,6 +1461,9 @@ body{
     .prolistba-desc p {
         max-width: 55%;
     }
+	.hexpert-tabbing ul li a b, .hexpert-tabbing ul li a strong {
+	line-height: 50px;
+	}
 }
 @media screen and (max-width: 1199px) {
     header .menu-item:last-child a {
