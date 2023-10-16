@@ -1659,12 +1659,12 @@ body{
         line-height: 62px;
     }
     .project-one {
-        margin-top: 150px;
+        margin-top: 170px;
     }
     .promain-title h1 {
         font-size: 50px;
         line-height: 60px;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
     }
     .projectwo-top {
         padding: 90px 0px 90px;
@@ -1994,12 +1994,12 @@ body{
         border-radius: 10px;
     }
     .project-one {
-        margin-top: 140px;
+        margin-top: 150px;
     }
     .promain-title h1 {
         font-size: 38px;
         line-height: 50px;
-        margin-bottom: 15px;
+        margin-bottom: 30px;
     }
     .projectwo-top {
         padding: 70px 0px 70px;
@@ -2293,6 +2293,7 @@ body{
     }
     .promain-title h1 {
         font-size: 30px;
+	    margin-bottom: 20px;
         line-height: 43px;
     }
     .projectwo-top {
