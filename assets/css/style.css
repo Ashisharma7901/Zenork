@@ -2113,6 +2113,9 @@ body{
     .hexpert-box .row{
         row-gap: 30px;
     }
+	.hexpert-desc p {
+	max-width: 100%;
+	}
 }
 @media screen and (max-width: 767px) {
     .hb-main h1 {
