@@ -893,14 +893,14 @@ footer::before{
     padding: 0;
 }
 .promain-title h1{
-    color: #9E9E9E;
+    color: #252424;
     font-size: 58px;
     font-weight: 400;
     line-height: 70px;
-    margin-bottom: 25px;
+    margin-bottom: 64px;
 }
 .project-one{
-    margin-top: 185px;
+    margin-top: 225px;
 }
 .project-img img{
     width: 100%;
