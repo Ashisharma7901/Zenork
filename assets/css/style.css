@@ -422,7 +422,7 @@ header .menu-item:last-child a::before{
 .hworkb-btn{
     position: absolute;
     top: 50%;
-    left: 30%;
+    left: 10%;
     transform: translate(-50%, -50%);
     -webkit-transition: .8s all ease;
     -ms-transition: .8s all ease;
@@ -435,9 +435,9 @@ header .menu-item:last-child a::before{
     bottom: 18px;
     left: -100%;
     max-width: fit-content;
-    -webkit-transition: .7s all ease;
-    -ms-transition: .7s all ease;
-    transition: .7s all ease;
+    -webkit-transition: .8s all ease;
+    -ms-transition: .8s all ease;
+    transition: .8s all ease;
 }
 .hworkb-top ul li + li{
     margin-left: 10px;
@@ -481,6 +481,9 @@ header .menu-item:last-child a::before{
 }
 .hworkb-bottom h3 a{
     color: rgba(61, 58, 58, 1);
+	-webkit-transition: .8s all ease;
+    -ms-transition: .8s all ease;
+    transition: .8s all ease;
 }
 .hworkb-bottom h3 a{
     position: relative;
@@ -496,9 +499,9 @@ header .menu-item:last-child a::before{
     background: #4357E9;
     height: 2px;
     z-index: -1;
-    -webkit-transition: .5s all ease;
-    -ms-transition: .5s all ease;
-    transition: .5s all ease;
+    -webkit-transition: .8s all ease;
+    -ms-transition: .8s all ease;
+    transition: .8s all ease;
 }
 .hworkb-bottom p{
     font-size: 22px;
