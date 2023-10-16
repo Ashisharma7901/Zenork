@@ -1889,8 +1889,8 @@ body{
         margin-top: 100px;
     }
     header .menu-item {
-        font-size: 35px;
-        line-height: 45px;
+        font-size: 30px;
+        line-height: 40px;
     }
     header .menu-item + .menu-item {
         margin-left: 0;
