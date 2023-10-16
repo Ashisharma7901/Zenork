@@ -1404,6 +1404,9 @@ footer::before{
 .hexpert-desc p {
 	max-width: 87%;
 }
+.hexpert-tabbing ul li + li {
+	margin-top: 5px;
+}
 body{
 	width: 100%;
 	overflow: hidden;
