@@ -673,6 +673,7 @@ footer::before{
 }
 .f-logo img{
     max-width: 230px;
+	width: 230px;
     width: 100%;
 }
 .f-left p, .f-right p, .fb-left p{
@@ -1411,6 +1412,9 @@ body{
 	width: 100%;
 	overflow: hidden;
 }
+.f-logo a{
+	max-width: fit-content;
+}
 /* Responsive */
 
 @media screen and (max-width: 1399px) {
@@ -1805,7 +1809,7 @@ body{
         padding-bottom: 40px;
     }
     .f-top {
-        padding: 40px 0px;  
+        padding: 50px 0px;  
     }
     .f-bottom {
         padding: 20px 0px;
@@ -2403,6 +2407,21 @@ body{
     .hexpert-box .row {
         row-gap: 20px;
     }
+	.f-logo img {
+	width: 200px;
+	}
+	.f-logo a {
+	margin: auto;
+	}
+	.f-left.f-main, .f-right.f-main {
+	text-align: center;
+	}
+	.fli-btn {
+	margin: 0px auto 14px;
+	}
+	.social ul {
+	margin-left: auto;
+	}
 }
 @media screen and (max-width: 575px) {
     .hb-main h1 {
@@ -2456,10 +2475,10 @@ body{
         left: -70px;
     }
     .f-top {
-        padding: 30px 0px;
+        padding: 45px 0px;
     }
     .cta {
-        padding-bottom: 30px;
+        padding-bottom: 40px;
     }
     .hb-main b, .hb-main strong, .hb-main h2:last-child {
         margin-left: 25%;
