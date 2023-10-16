@@ -732,6 +732,7 @@ footer::before{
 }
 .f-links ul li a.current-menu-item{
 	color: #000;
+	font-weight: 500;
 }
 .f-right h3{
     font-size: 20px;
