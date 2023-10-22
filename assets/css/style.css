@@ -299,7 +299,10 @@ header .menu-item a{
     position: relative;
     overflow: hidden;
 }
-header .menu-item a:hover, header .menu-item.current-menu-item a{
+header .menu-item a:hover{
+	color: #000;
+}
+header .menu-item.current-menu-item a{
     color: #000;
 	font-weight: 500;
 }
@@ -716,8 +719,8 @@ footer::before{
     margin: auto;
 }
 .social ul li svg {
-	max-width: 28px;
-	width: 28px;
+	max-width: 29px;
+	width: 29px;
 	height: 28px;
 }
 .social ul li + li{
@@ -1155,8 +1158,8 @@ footer::before{
     font-weight: 400;
 }
 .abagenb-social ul li svg{
-    max-width: 30px;
-	width: 30px;
+    max-width: 31px;
+	width: 31px;
 	height: 30px;
 }
 .abagenb-social ul li + li{
