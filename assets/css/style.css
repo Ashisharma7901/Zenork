@@ -2448,6 +2448,9 @@ body{
 	.social ul {
 	margin-left: auto;
 	}
+	.conbari-top {
+	margin-bottom: 50px;
+	}
 }
 @media screen and (max-width: 575px) {
     .hb-main h1 {
@@ -2543,8 +2546,11 @@ body{
         margin-top: 165px;
     }
     .conba-right {
-        margin-top: 45px;
+        margin-top: 50px;
     }
+	.conbari-top {
+	margin-bottom: 40px;
+	}
     .conbari-top a {
         font-size: 35px;
         line-height: 46px;
