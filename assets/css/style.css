@@ -269,7 +269,7 @@ header{
     transition: .5s all ease;
 }
 header.sticky {
-	background: rgba(255,255,255,0.8);
+/* 	background: rgba(255,255,255,0.8); */
 	padding: 20px 0;
 	box-shadow: 0px 5px 20px rgb(0 0 0 / 20%);
 }
@@ -281,8 +281,10 @@ header::before{
 	right: 0;
 	bottom: 0;
 	background: rgba(255,255,255,0.8);
-	backdrop-filter: blur(8px);
 	z-index: -1;
+}
+header.sticky::before{
+	backdrop-filter: blur(8px);
 }
 .navbar-brand {
 	padding: 0;
