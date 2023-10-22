@@ -320,7 +320,7 @@ header .menu-item:first-child{
     margin-left: auto;
 }
 header .menu-item:last-child a{
-    padding: 14px 24px;
+    padding: 17px 24px 14px;
     border-radius: 70px;
     background: transparent;
     color: #4357E9;
