@@ -652,7 +652,7 @@ header .menu-item:last-child a::before{
 }
 .cta-btn{
     background: linear-gradient(98deg, #3F53D9 -13.64%, #9192F0 135.83%); 
-    border: 2px solid transparent;
+    border: 0px;
     color: #fff;
     padding: 20px 30px;
     text-transform: uppercase;
